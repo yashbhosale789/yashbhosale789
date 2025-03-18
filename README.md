@@ -35,12 +35,12 @@ I am a B.Tech graduate from SRM University, currently working in the SAP domain.
 - **Fiori Certified Developer**
 
 ## Current Activities
-- 🔭 I’m currently working on SAP BTP and related technologies.
+- 🔥 I’m currently working on SAP BTP and related technologies.
 - 🌱 I’m currently learning advanced machine learning techniques and SAP's latest offerings.
-- 👯 I’m looking to collaborate on open source projects in the SAP domain.
+- 👯️ I’m looking to collaborate on open source projects in the SAP domain.
 - 🤔 I’m looking for help with integrating AI solutions into SAP ecosystems.
 - 💬 Ask me about SAP BTP, machine learning, or any of my projects.
-- 📫 How to reach me: [bhosaleyash789@gmail.com](mailto:bhosaleyash789@gmail.com)
+- 📩 How to reach me: [bhosaleyash789@gmail.com](mailto:bhosaleyash789@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love exploring new technologies and applying them to solve real-world problems.
 
