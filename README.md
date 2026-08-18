@@ -100,9 +100,9 @@ SAP BTP • CAP • SAP AI Core • SAP AI Launchpad • HANA Cloud • Kyma •
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=yashbhosale789&show_icons=true&theme=tokyonight"/>
+<img height="170em" src="./profile/stats.svg" alt="Yash's GitHub statistics"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashbhosale789&layout=compact&theme=tokyonight"/>
+<img height="170em" src="./profile/top-langs.svg" alt="Yash's most used languages"/>
 
 </p>
 
@@ -113,7 +113,7 @@ SAP BTP • CAP • SAP AI Core • SAP AI Launchpad • HANA Cloud • Kyma •
 <p align="center">
 
 <!-- Heroku-hosted streak stats sometimes go down. Using an alternative public host. -->
-<img src="https://streak-stats.demolab.com/?user=yashbhosale789&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=yashbhosale789&theme=tokyonight" alt="GitHub contribution streak"/>
 
 </p>
 
@@ -133,7 +133,7 @@ SAP BTP • CAP • SAP AI Core • SAP AI Launchpad • HANA Cloud • Kyma •
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=yashbhosale789&theme=tokyonight&row=2&column=4"/>
+<img src="./profile/trophy.svg" alt="GitHub trophies"/>
 
 </p>
 
@@ -143,7 +143,11 @@ SAP BTP • CAP • SAP AI Core • SAP AI Launchpad • HANA Cloud • Kyma •
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/yashbhosale789/yashbhosale789/main/output/github-contribution-grid-snake.svg"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yashbhosale789/yashbhosale789/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yashbhosale789/yashbhosale789/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/yashbhosale789/yashbhosale789/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/>
+</picture>
 
 </p>
 
