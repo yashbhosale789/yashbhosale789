@@ -81,18 +81,46 @@ SAP BTP • CAP • SAP AI Core • SAP AI Launchpad • HANA Cloud • Kyma •
 
 ---
 
-# 🌟 Featured Projects
+# 🌟 Featured Work
 
-| Project | Description |
-|----------|-------------|
-| 🤖 CAPM-RAG | Enterprise RAG solution using SAP CAP |
-| 🚀 CSR-Agent | AI-powered enterprise assistant |
-| 🔍 Similarity Search | Semantic Search using SAP AI Core |
-| ⚡ Similarity Search Xenova | Local embedding search |
-| ☁ CAPM PostgreSQL | CAP + PostgreSQL Hyperscaler |
-| 🎙 Jarvis | AI Virtual Assistant |
-| 👁 Human Eye Disease Detection | Deep Learning project |
-| 🚗 Vehicle Number Plate Detection | Computer Vision |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 CAPM-RAG</h3>
+      <p>Enterprise retrieval-augmented generation solution built with SAP CAP.</p>
+      <sub>SAP CAP · RAG · LLMs · SAP BTP</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚀 CSR-Agent</h3>
+      <p>AI-powered enterprise assistant designed for practical business workflows.</p>
+      <sub>Agentic AI · LLMs · Enterprise AI</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔍 Similarity Search</h3>
+      <p>Semantic search experience powered by SAP AI Core.</p>
+      <sub>SAP AI Core · Embeddings · Vector Search</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>☁ CAPM PostgreSQL</h3>
+      <p>SAP CAP application using PostgreSQL on a hyperscaler-ready architecture.</p>
+      <sub>SAP CAP · PostgreSQL · Cloud</sub>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/yashbhosale789?tab=repositories">Explore all projects on GitHub →</a>
+</p>
+
+---
+
+# 🧭 What I'm Building
+
+I’m focused on enterprise AI experiences that connect SAP business processes with RAG, LLMs, and agentic workflows.
+
+**Open to collaborating on:** SAP BTP applications, SAP CAP services, enterprise RAG, and practical AI agents.
 
 ---
 
