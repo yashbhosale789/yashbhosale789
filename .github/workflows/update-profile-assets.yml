@@ -1,6 +1,12 @@
 name: Update profile assets
 
 on:
+  push:
+    branches:
+      - main
+    paths:
+      - README.md
+      - .github/workflows/update-profile-assets.yml
   schedule:
     - cron: "0 3 * * *"
   workflow_dispatch:
