@@ -7,7 +7,7 @@
 Building Enterprise AI applications using SAP BTP, RAG, LLMs and Agentic AI.
 
 <p>
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=SAP+Generative+AI+Engineer;Enterprise+AI+Developer;Building+AI+Agents;RAG+%7C+LLMs+%7C+SAP+BTP;Open+Source+Enthusiast"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=SAP+Generative+AI+Engineer;Enterprise+AI+Architect;Building+Production+AI+Agents"/>
 </p>
 
 <p>
@@ -112,7 +112,8 @@ SAP BTP • CAP • SAP AI Core • SAP AI Launchpad • HANA Cloud • Kyma •
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yashbhosale789&theme=tokyonight"/>
+<!-- Heroku-hosted streak stats sometimes go down. Using an alternative public host. -->
+<img src="https://streak-stats.demolab.com/?user=yashbhosale789&theme=tokyonight"/>
 
 </p>
 
@@ -142,7 +143,7 @@ SAP BTP • CAP • SAP AI Core • SAP AI Launchpad • HANA Cloud • Kyma •
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/yashbhosale789/yashbhosale789/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/yashbhosale789/yashbhosale789/main/output/github-contribution-grid-snake.svg"/>
 
 </p>
 
