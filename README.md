@@ -161,15 +161,23 @@ I'm a software engineer focused on building **reliable AI applications** with op
 
 <div align="center">
   <a href="https://github.com/yashbhosale789">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashbhosale789&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" />
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=yashbhosale789&theme=tokyo-night&hide_border=true&area=true"
+      alt="GitHub Activity Graph"
+    />
   </a>
 </div>
 
+
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=yashbhosale789&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub profile trophies" />
+    <img
+      src="https://trophy.ryglcloud.net/?username=yashbhosale789&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"
+      alt="GitHub Profile Trophies"
+    />
   </a>
 </div>
+
 
 ## 🐍 Contribution Graph
 
