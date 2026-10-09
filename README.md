@@ -37,7 +37,7 @@ I'm a software engineer focused on building **reliable AI applications** with op
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,sql,bash&theme=dark" alt="Python, JavaScript and Bash" />
+  <img src="https://skillicons.dev/icons?i=python,js,sql,bash&theme=dark" alt="Python, JavaScript, and Bash" />
 </p>
 
 ### AI / ML & LLM Engineering
