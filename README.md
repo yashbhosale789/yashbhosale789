@@ -180,6 +180,15 @@ I'm a software engineer focused on building **reliable AI applications** with op
   </a>
 </div>
 
+## 🦈 GitHub Achievements
+
+<div align="center">
+  <a href="https://github.com/yashbhosale789?tab=achievements">
+    <img src="https://github-profile-trophy.vercel.app/?username=yashbhosale789&theme=tokyonight&no-frame=true&no-bg=true&column=1&title=PullRequest" alt="Pull Shark achievement" />
+  </a>
+  <p><a href="https://github.com/yashbhosale789?tab=achievements">View my GitHub achievements</a></p>
+</div>
+
 ## 🐍 Contribution Graph
 
 <div align="center">
