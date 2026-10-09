@@ -37,7 +37,7 @@ I'm a software engineer focused on building **reliable AI applications** with op
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,sql,bash&theme=dark" alt="Python, JavaScript, and Bash" />
+  <img src="https://skillicons.dev/icons?i=python,js,sql,bash&theme=dark" alt="Python, JavaScript, SQL, and Bash" />
 </p>
 
 ### AI / ML & LLM Engineering
@@ -146,10 +146,16 @@ I'm a software engineer focused on building **reliable AI applications** with op
 
 <div align="center">
   <a href="https://github.com/yashbhosale789">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=yashbhosale789&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Live GitHub stats" />
+    <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yashbhosale789&theme=tokyonight" alt="GitHub profile summary statistics" />
   </a>
-  <a href="https://github.com/yashbhosale789">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=yashbhosale789&layout=compact&theme=tokyonight&hide_border=true&langs_count=8">
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashbhosale789&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages from public repositories" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashbhosale789&theme=tokyonight">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashbhosale789&theme=tokyonight" alt="GitHub profile contribution summary" />
   </a>
 </div>
 
@@ -161,23 +167,18 @@ I'm a software engineer focused on building **reliable AI applications** with op
 
 <div align="center">
   <a href="https://github.com/yashbhosale789">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=yashbhosale789&theme=tokyo-night&hide_border=true&area=true"
-      alt="GitHub Activity Graph"
-    />
+    <img src="https://github-readme-activity-graph-ivory-phi.vercel.app/graph?username=yashbhosale789&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" />
   </a>
 </div>
 
+<!-- The upstream Vercel deployment has been reported paused in October 2026.
+     If the image remains broken, replace this endpoint with a self-hosted deployment. -->
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img
-      src="https://trophy.ryglcloud.net/?username=yashbhosale789&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"
-      alt="GitHub Profile Trophies"
-    />
+    <img src="https://trophy.ryglcloud.net/?username=yashbhosale789&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub profile trophies" />
   </a>
 </div>
-
 
 ## 🐍 Contribution Graph
 
