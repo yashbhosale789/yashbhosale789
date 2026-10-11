@@ -97,7 +97,7 @@ I'm a software engineer focused on building **reliable AI applications** with op
         <li>Custom LLM-as-judge evaluation with a golden question set</li>
       </ul>
       <p><strong>Stack:</strong> Python, LangChain, ChromaDB, BGE, BM25</p>
-      <p><em>Repository link can be added when the public repo is ready.</em></p>
+      <!-- <p><em>Repository link can be added when the public repo is ready.</em></p> -->
     </td>
     <td width="50%" valign="top">
       <h3>🤖 Agentic RAG & Multi-Agent Systems</h3>
@@ -118,7 +118,7 @@ I'm a software engineer focused on building **reliable AI applications** with op
       <p><strong>AI-assisted knowledge and workflow exploration</strong></p>
       <p>Exploring ways to use retrieval and LLM workflows to help people find information in procedural documentation and support repeatable tasks.</p>
       <p><strong>Potential areas:</strong> document retrieval, grounded answers, tool integration, workflow automation</p>
-      <p><em>Add a repository link and confirmed feature details before publishing this project publicly.</em></p>
+      <!-- <p><em>Add a repository link and confirmed feature details before publishing this project publicly.</em></p> -->
     </td>
     <td width="50%" valign="top">
       <h3>🦸 Marvel Chatbot — RAG</h3>
@@ -129,7 +129,7 @@ I'm a software engineer focused on building **reliable AI applications** with op
         <li>Vector retrieval for relevant context</li>
         <li>Context-grounded question answering</li>
       </ul>
-      <p><em>Add the public repository link once verified.</em></p>
+      <!-- <p><em>Add the public repository link once verified.</em></p> -->
     </td>
   </tr>
 </table>
