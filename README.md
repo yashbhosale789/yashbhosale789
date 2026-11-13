@@ -16,12 +16,16 @@
 
 ## 🧠 About me
 
-I'm an AI Engineer. I build retrieval and agent systems and I care most about one question: **how do you know it works?** So every quality claim on this page comes from a versioned dataset, and every change is checked with a paired comparison before it ships.
+I'm an AI Engineer who builds retrieval and agent systems that hold up outside a demo. The question I keep asking is **how do you know it works?**, so I put evaluation in place before I tune anything.
 
-- 🚀 **Shipped** [Personal Knowledge OS](https://github.com/yashbhosale789/Personal-Knowledge-RAG): a production RAG system, live on AWS on a $0 budget, with CI/CD, tracing, SLOs and alerting.
-- 📏 **Wrote** [rag-eval-kit](https://github.com/yashbhosale789/rag-eval-kit) so any RAG system can be scored the same way: retrieval metrics, a calibrated LLM judge and paired statistics.
-- 🧪 **Benchmarked** four RAG designs on one corpus and one question set in [rag-benchmarks](https://github.com/yashbhosale789/rag-benchmarks).
-- 🤖 **Building** LangGraph agents with corrective retrieval, graders, knowledge-graph expansion and guardrails.
+- 🔭 **Working on:** production RAG, LangGraph agents, and tooling that makes LLM systems measurable.
+- 🧭 **How I work:** measure first, change one thing at a time, ship in small pull requests, and pin every known defect with a failing test until it is fixed.
+- 💸 **A constraint I enjoy:** building on free tiers and small machines. A tight budget forces honest engineering about latency, cost and call volume.
+- 🌱 **Exploring:** MCP and tool integrations, multi-agent orchestration, graph-based retrieval.
+- 💬 **Ask me about:** hybrid search and reranking, LLM-as-judge evaluation, agent reliability, running LLM apps in production.
+- 🤝 **Open to:** collaborating on open-source AI tooling.
+
+> A convincing demo is where the work starts. I want systems that can be evaluated, debugged and improved.
 
 ## 🚀 Featured work
 
@@ -84,37 +88,6 @@ I'm an AI Engineer. I build retrieval and agent systems and I care most about on
     </td>
   </tr>
 </table>
-
-## 📊 Measured, not claimed
-
-Four RAG designs, one corpus (236 PDFs), one set of 71 labelled questions, one code path ([rag-eval-kit](https://github.com/yashbhosale789/rag-eval-kit)):
-
-| Variant | Retrieval | Recall@3 | MRR |
-| --- | --- | :---: | :---: |
-| [Naive RAG](https://github.com/yashbhosale789/naive-rag) | dense top-k | 0.655 | 0.594 |
-| [Advanced RAG](https://github.com/yashbhosale789/advanced-rag) | dense + BM25 → RRF → cross-encoder rerank | 0.742 | 0.735 |
-| [Agentic RAG](https://github.com/yashbhosale789/agentic-rag) (retrieve tool) | same pipeline, called by an agent | 0.742 | 0.735 |
-| [Production RAG](https://github.com/yashbhosale789/Personal-Knowledge-RAG) | + LLM query rewrite, larger chunks, top 3 | **0.876** | **0.829** |
-
-Production's Recall@3 gain over Advanced holds up under a paired bootstrap and a sign test. The run files, the settings that differ and the differences that did *not* hold up are in [rag-benchmarks](https://github.com/yashbhosale789/rag-benchmarks).
-
-<details>
-<summary><strong>How the production pipeline answers a question</strong></summary>
-
-```mermaid
-flowchart LR
-    Q(["Question"]) --> C{"Semantic<br/>cache"}
-    C -- hit --> A(["Cited answer"])
-    C -- miss --> R["Hybrid retrieval<br/>dense + BM25 → RRF"]
-    R --> RR["Cross-encoder<br/>rerank"]
-    RR --> G{"Enough<br/>evidence?"}
-    G -- no --> X(["Abstain"])
-    G -- yes --> L["Grounded<br/>generation"]
-    L --> V["Citation<br/>verifier"]
-    V --> A
-```
-
-</details>
 
 ## 🛠️ Tech stack
 
